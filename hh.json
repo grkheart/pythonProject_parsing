@@ -1,0 +1,1442 @@
+[
+  {
+    "vacancy": "Senior Python backend developer (remote)",
+    "min_salary": null,
+    "max_salary": "8 000",
+    "currency": "USD",
+    "link": "https://tomsk.hh.ru/vacancy/52052303",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50991071",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer",
+    "min_salary": "3 000",
+    "max_salary": null,
+    "currency": "EUR",
+    "link": "https://tomsk.hh.ru/vacancy/52232184",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python (remote work)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52845832",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47731802",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/49149656",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python-разработчик",
+    "min_salary": "180 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51409548",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python Django разработчик",
+    "min_salary": "80 000",
+    "max_salary": "160 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52481237",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer (scraper)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51113363",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle+ разработчик Python / Django (удалённо)",
+    "min_salary": "120 000",
+    "max_salary": "160 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52149179",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer (senior/middle+)",
+    "min_salary": null,
+    "max_salary": "350 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52849587",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python developer",
+    "min_salary": "200 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52845228",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (senior) (backend)/ Backend Team lead",
+    "min_salary": null,
+    "max_salary": "500 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/43941903",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик ботов (Python & JS)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50362214",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51855274",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python-разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52824962",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Developer (remote) / Старший python-разработчик (удаленно)",
+    "min_salary": "230 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52967125",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Инженер-программист С++/Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51987589",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (Back-end)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/53003930",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python (Middle)",
+    "min_salary": "150 000",
+    "max_salary": "200 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/50984438",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Middle в Cybersecurity core team",
+    "min_salary": null,
+    "max_salary": "140 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51362209",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/45160320",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer(АТОЛ Delta)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52534136",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer in QA",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51213197",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python-разработчик (проект Поиск)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51690937",
+    "date": "20.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Код-ревьюер на курс \"Python-разработчик\"",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50738312",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (middle/senior)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/43961654",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Эксперт-преподаватель по курсу Python (Evrone Academy)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52627587",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer (Metagame)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52423790",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Наставник на курс \"Python-разработчик\"",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51086253",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python программист (Наставник онлайн-курса по Python)",
+    "min_salary": null,
+    "max_salary": "75 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51707320",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52991192",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python (со знанием Go)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52828558",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python (Middle, Senior)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50752070",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (CRM Domclick)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47433937",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/45607105",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (Middle\\Senior)",
+    "min_salary": "180 000",
+    "max_salary": "350 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52029353",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "С++ / Python developer (Simulator)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51968534",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "System developer С++ / Python (middleware)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52086038",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python",
+    "min_salary": "50 000",
+    "max_salary": "100 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52702655",
+    "date": "18.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Backend Developer (Python/Django)",
+    "min_salary": null,
+    "max_salary": "275 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52626125",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python/C++ Developer (сетевые технологии)",
+    "min_salary": "250 000",
+    "max_salary": "320 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51971544",
+    "date": "16.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Software Engineer (Python)",
+    "min_salary": "250 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51891522",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51940169",
+    "date": "16.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Ведущий Python разработчик",
+    "min_salary": null,
+    "max_salary": "350 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52532962",
+    "date": "16.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/42615019",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Software Engineer / Python developer",
+    "min_salary": "3 000",
+    "max_salary": "5 000",
+    "currency": "USD",
+    "link": "https://tomsk.hh.ru/vacancy/52535473",
+    "date": "16.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Developer/ Eng",
+    "min_salary": "2 500",
+    "max_salary": "5 000",
+    "currency": "USD",
+    "link": "https://tomsk.hh.ru/vacancy/52806044",
+    "date": "21.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Инженер - программист С++/Python (middle)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/46301968",
+    "date": "22.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python, SQL «Цифровые страховые сервисы»",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50356104",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Go/Python developer",
+    "min_salary": null,
+    "max_salary": "400 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52020360",
+    "date": "17.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Fullstack Developer (JS/Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52820951",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52542896",
+    "date": "16.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик в партнерский кабинет",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52683070",
+    "date": "18.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Ведущий python-разработчик",
+    "min_salary": null,
+    "max_salary": "300 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52460892",
+    "date": "15.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Team Lead Python BigData",
+    "min_salary": "400 000",
+    "max_salary": "600 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52395313",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python backend разработчик (Django)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/49649299",
+    "date": "17.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle / Senior Python разработчик",
+    "min_salary": null,
+    "max_salary": "300 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52608078",
+    "date": "17.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer",
+    "min_salary": "60 000",
+    "max_salary": "120 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52437050",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52479187",
+    "date": "15.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer (MTS AI)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/49635406",
+    "date": "10.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Backend-разработчик (python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/49299511",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Бизнес-системный Аналитик / начинающий Python ML разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52481193",
+    "date": "15.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/48903574",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52349149",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Стажер-разработчик бэкенда (C++/ Python/ Java/ Golang/ PHP)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52347011",
+    "date": "11.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "QA automation (Python)",
+    "min_salary": "4 000",
+    "max_salary": "7 000",
+    "currency": "USD",
+    "link": "https://tomsk.hh.ru/vacancy/52239154",
+    "date": "09.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Преподаватель курса Python",
+    "min_salary": "5 000",
+    "max_salary": "150 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52675125",
+    "date": "18.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "QA automation engineer (Selenium WebDriver + Python)/Тестировщик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47358973",
+    "date": "23.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Бэк-энд разработчик (Python, SQL)",
+    "min_salary": "100 000",
+    "max_salary": "160 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/41095804",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Преподаватель по программированию для детей (Python)",
+    "min_salary": "30 000",
+    "max_salary": "75 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51241188",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python (Senior)",
+    "min_salary": null,
+    "max_salary": "300 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52302450",
+    "date": "10.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer (middle/senior)",
+    "min_salary": "200 000",
+    "max_salary": "400 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51658170",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Golang/Python-разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50948848",
+    "date": "11.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python (Webscanner)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51059687",
+    "date": "12.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52261463",
+    "date": "09.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52301782",
+    "date": "10.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "QA Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52503375",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Junior Аналитик Python/SQL в Центр ИТ-валидации",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52292199",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Backend Developer (Remote)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51944993",
+    "date": "24.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python back-end разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52389935",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "DeFi Data Engineer (Python)",
+    "min_salary": "4 000",
+    "max_salary": null,
+    "currency": "USD",
+    "link": "https://tomsk.hh.ru/vacancy/52174179",
+    "date": "07.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (Middle+/Senior)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/45806688",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик ERP cистемы/Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52475406",
+    "date": "15.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52110705",
+    "date": "04.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": "100 000",
+    "max_salary": "200 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52062760",
+    "date": "03.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (Middle)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47041312",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Backend разработчик (Python)",
+    "min_salary": "200 000",
+    "max_salary": "220 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51354515",
+    "date": "07.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Инженер по автоматизации тестирования (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/44427755",
+    "date": "15.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52352686",
+    "date": "12.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer (Middle)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50769897",
+    "date": "06.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52068555",
+    "date": "07.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "QA Automation Engineer (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51338108",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик в команду платформы PaaS",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52254799",
+    "date": "09.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Ведущий разработчик медиабэкенда (C/Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52549039",
+    "date": "16.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python разработчик (МЦТП)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51969717",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/48993749",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Team Lead",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50372171",
+    "date": "08.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52415960",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python инженер по автоматизации систем мониторинга",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52286133",
+    "date": "14.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Junior/Python BackEnd Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/49462767",
+    "date": "27.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Backend-разработчик Python + Django (Middle/Senior)",
+    "min_salary": "180 000",
+    "max_salary": "230 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/50999248",
+    "date": "29.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/48176706",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Инженер по автоматизации тестирования Python, Тарификатор маркетплейса",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/46786855",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer в научный отдел",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51962816",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик на С++/Python в Яндекс.Маршрутизацию",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50892846",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Программист Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47040907",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python-разработчик со знанием Storage (команда IaaS)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/46573584",
+    "date": "07.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Ведущий разработчик/Программист Python (Remote)",
+    "min_salary": "260 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/49532095",
+    "date": "03.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer (аналитика для ТЦ и ритейла, работа удалённо)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51925437",
+    "date": "30.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "QA automation engineer (Python)",
+    "min_salary": "200 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/52082730",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle/Senior Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50878194",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Build Engineer (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/48290819",
+    "date": "09.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50736434",
+    "date": "01.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python-разработчик в Цифровые поверхности Салют (SberDevices)",
+    "min_salary": "200 000",
+    "max_salary": "400 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/46257924",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Developer (MLOps tool + OpenSource / US-startup)",
+    "min_salary": "6 000",
+    "max_salary": "8 000",
+    "currency": "USD",
+    "link": "https://tomsk.hh.ru/vacancy/51906037",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Инженер по автоматизации тестирования Python, Кастомные интеграции и селлер апи",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47219792",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Аналитик данных (SQL, Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51892404",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50749988",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "TeamLead Python",
+    "min_salary": "500 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51740264",
+    "date": "25.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Специалист технической поддержки со знанием JS/Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52076528",
+    "date": "03.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик DWH (Airflow + Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51849191",
+    "date": "27.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python-разработчик в Цифровые поверхности Салют (направление B2B2C)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/41032029",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python developer (Ростелеком Ключ)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51787069",
+    "date": "26.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Backend разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51726786",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer (Cashbox Team)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/49017674",
+    "date": "02.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle/Senior Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/47474397",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python/Django - разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52071641",
+    "date": "03.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик Python/Ведущий инженер-разработчик ПО",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51894317",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "TeamLead Python в Цифровые поверхности Салют (направление SmartApp)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/41058653",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "QA automation (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51908360",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Старший разработчик Python",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/42772685",
+    "date": "07.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51911113",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Тестировщик / Ведущий тестировщик (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50566935",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Разработчик в тестировании/SDET (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51850627",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51961809",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Golang/Python-разработчик в PSP",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51804130",
+    "date": "26.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Backend-программист (Python) в РГБ",
+    "min_salary": "170 000",
+    "max_salary": "190 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/49233233",
+    "date": "27.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Старший backend-разработчик (С++, Java, Python)",
+    "min_salary": "200 000",
+    "max_salary": "300 000",
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51970350",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Автотестировщик Python/QA Engineer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52096320",
+    "date": "04.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer/DevOps",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51989270",
+    "date": "01.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle и Senior Python engineer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52072941",
+    "date": "03.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Риск-аналитик fintech (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52031202",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Backend Developer (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52211060",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python разработчик (развитие технологических решений)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50069252",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python developer/Ведущий разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52111382",
+    "date": "04.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Software Development Engineer in Test Python (Kaspersky Security для виртуальных сред Легкий агент)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51087761",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle Python Developer (серверное ПО)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51994805",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python разработчик",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/48570014",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Team Lead (разработка инструментов для анализа данных)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51968473",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python Developer / Full Stack developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51886001",
+    "date": "28.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Software Development Engineer in Test Python (Kaspersky Cloud Endpoint Detection and Response)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51088555",
+    "date": null,
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "ERP Software Developer (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52334324",
+    "date": "11.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Middle/Senior Python Developer",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50332549",
+    "date": "27.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Python разработчик (Senior)/ Team Lead",
+    "min_salary": "260 000",
+    "max_salary": null,
+    "currency": "руб.",
+    "link": "https://tomsk.hh.ru/vacancy/51941713",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Web Developer (Django/Flask)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51007884",
+    "date": "11.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior BigData Developer with Python / Spark / AWS",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52231638",
+    "date": "09.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior Python Developer (Extranet Team)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/52037418",
+    "date": "02.02.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Tech Lead / Python Chapter Lead",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/51953878",
+    "date": "31.01.2022",
+    "source_site": "https://hh.ru"
+  },
+  {
+    "vacancy": "Senior BackEnd Engineer (Python)",
+    "min_salary": null,
+    "max_salary": null,
+    "currency": null,
+    "link": "https://tomsk.hh.ru/vacancy/50609108",
+    "date": "27.01.2022",
+    "source_site": "https://hh.ru"
+  }
+]
