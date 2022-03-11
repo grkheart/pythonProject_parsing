@@ -20,28 +20,17 @@ class LeroymerlinSpider(scrapy.Spider):
             yield response.follow(link, callback=self.parse_ads)
 
     '''Собираем данные'''
-    '''Вариант №1 (через add.xpath не сработало)'''
+    '''(через add.xpath не всё сработало)'''
 
-    #def parse_ads(self, response: HtmlResponse):
-        #data_load = ItemLoader(item=LmparserItem(), response=response)
-        #name = response.xpath('//h1[@itemprop="name"]').getall()
-        #data_load.add_xpath('pics', '//picture[@slot="pictures"]//source[contains(@media, "1024px")]/@srcset')
-        #data_load.add_xpath('price', '//span[@slot="price"]//text()')
-        #data_load.add_value('url', response.url)
-        #information = response.xpath('//dt/text()').getall()
-        #description = response.xpath('//dd/text()').getall()
-        #data_load.add_value('chart', dict(zip(information, description)))
-        #yield data_load.load_item()
-
-    '''Вариант №2'''
     def parse_ads(self, response: HtmlResponse):
         data_load = ItemLoader(item=LmparserItem(), response=response)
         name = response.xpath('//h1[@itemprop="name"]').getall()
-        pics = response.xpath('//picture[@slot="pictures"]//source[contains(@media, "1024px")]/@srcset').getall()
-        price = response.xpath('//span[@slot="price"]//text()').getall()
-        url = response.url
+        data_load.add_xpath('pics', '//picture[@slot="pictures"]//source[contains(@media, "1024px")]/@srcset')
+        data_load.add_xpath('price', '//span[@slot="price"]//text()')
+        data_load.add_value('url', response.url)
         information = response.xpath('//dt/text()').getall()
         description = response.xpath('//dd/text()').getall()
         data_load.add_value('chart', dict(zip(information, description)))
-        yield LmparserItem(name=name, pics=pics, price=price, url=url)
+        yield data_load.load_item()
+
 
