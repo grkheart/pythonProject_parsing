@@ -13,7 +13,7 @@ import re
 class JobparserPipeline:
     def __init__(self):
         client = MongoClient('localhost', 27017)
-        self.mongobase = client.vacancy
+        self.mongobase = client['jobparse']
     # Обработка объекта и передача в БД
     def process_item(self, item, spider):
         if spider.name == 'hhru':
@@ -24,7 +24,7 @@ class JobparserPipeline:
             item['min'], item['max'] = self.process_salary_sj(item['salary'])
             item['currency'] = self.process_currency_sj(item['salary'])
             del item['salary']
-        collection = self.db[spider.name]
+        collection = self.mongobase['vacancy']
         collection.insert_one(item)
         return (item)
 
